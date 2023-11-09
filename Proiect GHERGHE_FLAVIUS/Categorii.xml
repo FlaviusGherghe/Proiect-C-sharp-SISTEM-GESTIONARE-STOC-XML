@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Categorii>
+    <Categorie>CategoriiTest1</Categorie>
+  </Categorii>
+  <Categorii />
+  <Categorii>
+    <Categorie>CategoriiTest2</Categorie>
+  </Categorii>
+  <Categorii />
+</NewDataSet>

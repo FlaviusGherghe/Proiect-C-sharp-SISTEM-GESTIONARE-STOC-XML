@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Produse>
+    <Nume>TestProdus1</Nume>
+    <Categorie>CategoriiTest1</Categorie>
+    <Cantitate>12</Cantitate>
+    <PretCumparare>13</PretCumparare>
+    <PretVanzare>12</PretVanzare>
+    <Data>15.04.2023 00:00:00</Data>
+    <Furnizori>TestFurnizor</Furnizori>
+  </Produse>
+  <Produse>
+    <Nume>Salam</Nume>
+    <Categorie>CategoriiTest2</Categorie>
+    <Cantitate>32</Cantitate>
+    <PretCumparare>23</PretCumparare>
+    <PretVanzare>24</PretVanzare>
+    <Data>15.04.2023 00:00:00</Data>
+    <Furnizori>TestFurnizor</Furnizori>
+  </Produse>
+  <Produse />
+</NewDataSet>

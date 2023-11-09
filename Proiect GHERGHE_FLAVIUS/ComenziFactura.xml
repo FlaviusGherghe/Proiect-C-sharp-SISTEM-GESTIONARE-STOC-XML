@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <ComenziFactura>
+    <Produse>TestProdus1</Produse>
+    <NumeProdus>12</NumeProdus>
+    <Pret>10</Pret>
+    <Cantitate>120</Cantitate>
+  </ComenziFactura>
+  <ComenziFactura />
+</NewDataSet>

@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Furnizori>
+    <Nume>TestFurnizor</Nume>
+    <Telefon>2131231</Telefon>
+    <Adresa>asdasd</Adresa>
+  </Furnizori>
+  <Furnizori />
+</NewDataSet>

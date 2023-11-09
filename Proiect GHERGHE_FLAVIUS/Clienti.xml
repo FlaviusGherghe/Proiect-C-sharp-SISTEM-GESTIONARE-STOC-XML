@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Clienti>
+    <Nume>test1</Nume>
+    <Gen>Masculin</Gen>
+    <Telefon>123133</Telefon>
+    <Adresa>asda</Adresa>
+  </Clienti>
+  <Clienti>
+    <Nume>test2</Nume>
+    <Gen>Feminin</Gen>
+    <Telefon>4312</Telefon>
+    <Adresa>xcvs</Adresa>
+  </Clienti>
+  <Clienti />
+</NewDataSet>
